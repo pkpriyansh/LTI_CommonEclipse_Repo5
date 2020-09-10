@@ -13,7 +13,7 @@ public class Login {
 	}
 	//hello world.......
 	public void registration() {
-		System.out.println("hh");
+		System.out.println("welcome");
 		
 	}
 	
