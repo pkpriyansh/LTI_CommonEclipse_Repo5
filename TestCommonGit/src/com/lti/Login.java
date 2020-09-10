@@ -1,6 +1,7 @@
 package com.lti;
 
 public class Login {
+
 	public void login(String username, int password){
 		String user1="priyansh";
 		int pass= 1254;
@@ -10,4 +11,11 @@ public class Login {
 			System.out.println("invalid login id or password");
 		
 	}
+
+	public void registration() {
+		
+	}
+	
+	
+
 }
